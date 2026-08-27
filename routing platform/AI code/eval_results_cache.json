@@ -1,0 +1,252 @@
+{
+  "SNX-TEST-001": {
+    "cat_ok": true,
+    "sev_ok": true,
+    "dept_ok": true,
+    "dup_ok": true,
+    "got_category": "Water Supply",
+    "got_severity": "Critical",
+    "expected_category": "Water Supply",
+    "expected_severity": "Critical"
+  },
+  "SNX-TEST-002": {
+    "cat_ok": true,
+    "sev_ok": false,
+    "dept_ok": true,
+    "dup_ok": true,
+    "got_category": "Corruption & Administrative Misconduct",
+    "got_severity": "Medium",
+    "expected_category": "Corruption & Administrative Misconduct",
+    "expected_severity": "High"
+  },
+  "SNX-TEST-003": {
+    "cat_ok": true,
+    "sev_ok": true,
+    "dept_ok": true,
+    "dup_ok": true,
+    "got_category": "Environmental & Pollution",
+    "got_severity": "Low",
+    "expected_category": "Environmental & Pollution",
+    "expected_severity": "Low"
+  },
+  "SNX-TEST-004": {
+    "cat_ok": true,
+    "sev_ok": true,
+    "dept_ok": true,
+    "dup_ok": true,
+    "got_category": "Sanitation & Waste Management",
+    "got_severity": "Low",
+    "expected_category": "Sanitation & Waste Management",
+    "expected_severity": "Low"
+  },
+  "SNX-TEST-005": {
+    "cat_ok": true,
+    "sev_ok": true,
+    "dept_ok": true,
+    "dup_ok": true,
+    "got_category": "Healthcare Services",
+    "got_severity": "Medium",
+    "expected_category": "Healthcare Services",
+    "expected_severity": "Medium"
+  },
+  "SNX-TEST-006": {
+    "cat_ok": true,
+    "sev_ok": true,
+    "dept_ok": true,
+    "dup_ok": true,
+    "got_category": "Electricity & Power",
+    "got_severity": "Critical",
+    "expected_category": "Electricity & Power",
+    "expected_severity": "Critical"
+  },
+  "SNX-TEST-007": {
+    "cat_ok": true,
+    "sev_ok": true,
+    "dept_ok": true,
+    "dup_ok": true,
+    "got_category": "Public Safety & Law and Order",
+    "got_severity": "Critical",
+    "expected_category": "Public Safety & Law and Order",
+    "expected_severity": "Critical"
+  },
+  "SNX-TEST-008": {
+    "cat_ok": true,
+    "sev_ok": true,
+    "dept_ok": true,
+    "dup_ok": false,
+    "got_category": "Education Services",
+    "got_severity": "Medium",
+    "expected_category": "Education Services",
+    "expected_severity": "Medium"
+  },
+  "SNX-TEST-009": {
+    "cat_ok": true,
+    "sev_ok": false,
+    "dept_ok": true,
+    "dup_ok": true,
+    "got_category": "Sanitation & Waste Management",
+    "got_severity": "Critical",
+    "expected_category": "Sanitation & Waste Management",
+    "expected_severity": "High"
+  },
+  "SNX-TEST-010": {
+    "cat_ok": true,
+    "sev_ok": true,
+    "dept_ok": true,
+    "dup_ok": true,
+    "got_category": "Water Supply",
+    "got_severity": "Critical",
+    "expected_category": "Water Supply",
+    "expected_severity": "Critical"
+  },
+  "SNX-TEST-011": {
+    "cat_ok": true,
+    "sev_ok": true,
+    "dept_ok": true,
+    "dup_ok": false,
+    "got_category": "Environmental & Pollution",
+    "got_severity": "Medium",
+    "expected_category": "Environmental & Pollution",
+    "expected_severity": "Medium"
+  },
+  "SNX-TEST-012": {
+    "cat_ok": true,
+    "sev_ok": true,
+    "dept_ok": true,
+    "dup_ok": true,
+    "got_category": "Public Transport",
+    "got_severity": "Medium",
+    "expected_category": "Public Transport",
+    "expected_severity": "Medium"
+  },
+  "SNX-TEST-013": {
+    "cat_ok": true,
+    "sev_ok": true,
+    "dept_ok": true,
+    "dup_ok": true,
+    "got_category": "Corruption & Administrative Misconduct",
+    "got_severity": "Medium",
+    "expected_category": "Corruption & Administrative Misconduct",
+    "expected_severity": "Medium"
+  },
+  "SNX-TEST-014": {
+    "cat_ok": true,
+    "sev_ok": true,
+    "dept_ok": true,
+    "dup_ok": true,
+    "got_category": "Education Services",
+    "got_severity": "Low",
+    "expected_category": "Education Services",
+    "expected_severity": "Low"
+  },
+  "SNX-TEST-015": {
+    "cat_ok": true,
+    "sev_ok": true,
+    "dept_ok": true,
+    "dup_ok": true,
+    "got_category": "Electricity & Power",
+    "got_severity": "Critical",
+    "expected_category": "Electricity & Power",
+    "expected_severity": "Critical"
+  },
+  "SNX-TEST-016": {
+    "cat_ok": true,
+    "sev_ok": true,
+    "dept_ok": true,
+    "dup_ok": true,
+    "got_category": "Environmental & Pollution",
+    "got_severity": "Critical",
+    "expected_category": "Environmental & Pollution",
+    "expected_severity": "Critical"
+  },
+  "SNX-TEST-017": {
+    "cat_ok": true,
+    "sev_ok": true,
+    "dept_ok": true,
+    "dup_ok": true,
+    "got_category": "Roads & Infrastructure",
+    "got_severity": "Critical",
+    "expected_category": "Roads & Infrastructure",
+    "expected_severity": "Critical"
+  },
+  "SNX-TEST-018": {
+    "cat_ok": true,
+    "sev_ok": true,
+    "dept_ok": true,
+    "dup_ok": false,
+    "got_category": "Public Safety & Law and Order",
+    "got_severity": "High",
+    "expected_category": "Public Safety & Law and Order",
+    "expected_severity": "High"
+  },
+  "SNX-TEST-019": {
+    "cat_ok": true,
+    "sev_ok": true,
+    "dept_ok": true,
+    "dup_ok": true,
+    "got_category": "Electricity & Power",
+    "got_severity": "Low",
+    "expected_category": "Electricity & Power",
+    "expected_severity": "Low"
+  },
+  "SNX-TEST-020": {
+    "cat_ok": true,
+    "sev_ok": true,
+    "dept_ok": true,
+    "dup_ok": false,
+    "got_category": "Public Transport",
+    "got_severity": "Low",
+    "expected_category": "Public Transport",
+    "expected_severity": "Low"
+  },
+  "SNX-TEST-021": {
+    "cat_ok": true,
+    "sev_ok": true,
+    "dept_ok": true,
+    "dup_ok": true,
+    "got_category": "Roads & Infrastructure",
+    "got_severity": "Medium",
+    "expected_category": "Roads & Infrastructure",
+    "expected_severity": "Medium"
+  },
+  "SNX-TEST-022": {
+    "cat_ok": true,
+    "sev_ok": true,
+    "dept_ok": true,
+    "dup_ok": true,
+    "got_category": "Healthcare Services",
+    "got_severity": "Low",
+    "expected_category": "Healthcare Services",
+    "expected_severity": "Low"
+  },
+  "SNX-TEST-023": {
+    "cat_ok": true,
+    "sev_ok": true,
+    "dept_ok": true,
+    "dup_ok": false,
+    "got_category": "Public Transport",
+    "got_severity": "Critical",
+    "expected_category": "Public Transport",
+    "expected_severity": "Critical"
+  },
+  "SNX-TEST-024": {
+    "cat_ok": true,
+    "sev_ok": true,
+    "dept_ok": true,
+    "dup_ok": true,
+    "got_category": "Corruption & Administrative Misconduct",
+    "got_severity": "Low",
+    "expected_category": "Corruption & Administrative Misconduct",
+    "expected_severity": "Low"
+  },
+  "SNX-TEST-025": {
+    "cat_ok": false,
+    "sev_ok": false,
+    "dept_ok": false,
+    "dup_ok": true,
+    "got_category": "Roads & Infrastructure",
+    "got_severity": "Low",
+    "expected_category": "Electricity & Power",
+    "expected_severity": "Medium"
+  }
+}
